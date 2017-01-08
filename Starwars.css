@@ -20,6 +20,7 @@ body {
 
 .card {
 	border: solid 1px grey;
+  margin-bottom: 20px;
 	
 }
 
@@ -31,6 +32,3 @@ body {
 	padding-left: 20px;
 }
 
-.row {
-	padding-bottom: 20px;
-}
