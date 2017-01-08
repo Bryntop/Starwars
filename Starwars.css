@@ -1,0 +1,36 @@
+
+body {
+    margin:0;
+    
+  }
+
+.top-nav {
+
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 50px;
+  top: 0px;
+  text-align: left;
+}
+   header {  
+
+    background-color: #eebb44;
+    margin-bottom: 40px;
+}
+
+.card {
+	border: solid 1px grey;
+	
+}
+
+.photo {
+	width: 100%;
+}
+
+.info {
+	padding-left: 20px;
+}
+
+.row {
+	padding-bottom: 20px;
+}
